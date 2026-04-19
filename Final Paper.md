@@ -96,7 +96,8 @@ Beta testing is required to easily identify errors and bugs in either the interf
 <img width="1693" height="3115" alt="AA FINAL - Register" src="https://github.com/user-attachments/assets/9ed4e007-f1f2-4247-a22b-f9c457014c4f" />
 <img width="2971" height="5023" alt="AA FINAL - Login" src="https://github.com/user-attachments/assets/01e8eff8-66f8-4943-9233-7f98d8e1f66f" />
 <img width="2143" height="12313" alt="AA FINAL - Patient" src="https://github.com/user-attachments/assets/e31ea16f-58a8-428c-adcc-9b5a0584789d" />
-<img width="1729" height="6769" alt="AA FINAL - DoctorStaff" src="https://github.com/user-attachments/assets/a534a6a9-7a9c-4a77-8011-095329303ac6" />
+<img width="309" height="668" alt="image" src="https://github.com/user-attachments/assets/09e4da7f-0741-4566-888c-bd5b5523db6d" />
+<img width="308" height="669" alt="image" src="https://github.com/user-attachments/assets/903d71fd-d799-47f8-b5ef-7eb0cda6d00f" />
 
 ## Team Roles 
 |**Name**|**1st Quarter**|**2nd Quarter**|**3rd Quarter**|**4th Quarter**|
