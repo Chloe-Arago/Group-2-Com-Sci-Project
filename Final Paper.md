@@ -4,8 +4,8 @@
 
 Hospital management in the Philippines is flawed, to say the least. From many qualified nurses working overseas for better pay leading to understaffing, to a fragmented administration system, to delayed PhilHealth payments, operating a hospital even at a small scale is a burden, hindered by administrative problems and understaffing.
 
-	Patient management is an especially tough issue. From the already mentioned lacked of trained medical professionals, high out of pocket costs, and the still incomplete adoption of digital records, many patients have either found themselves with terrible healthcare, if any at all.
-
+Patient management is an especially tough issue. From the already mentioned lacked of trained medical professionals, high out of pocket costs, and the still incomplete adoption of digital records, many patients have either found themselves with terrible healthcare, if any at all.
+	
 In addition, digital records, which could serve to streamline the system, still has not been fully integrated into the national healthcare system, despite government initiatives. This is mostly due to the archipelago’s unique geography, which leaves certain areas with low connectivity, making it difficult to implement a unified national digital healthcare system.
 
 
