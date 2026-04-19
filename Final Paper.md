@@ -115,13 +115,13 @@ Beta testing is required to easily identify errors and bugs in either the interf
 
 ## REFERENCES
 
-GeeksforGeeks. (2026, April 11). Functional and non functional requirements. [GeeksforGeeks]. (https://www.geeksforgeeks.org/software-engineering/functional-vs-non-functional-requirements/)
+GeeksforGeeks. (2026, April 11). Functional and non functional requirements. GeeksforGeeks. (https://www.geeksforgeeks.org/software-engineering/functional-vs-non-functional-requirements/)
 
-Hassan, M., & Hassan, M. (2025, September 11). Waterfall Methodology – Phases, Examples and Guide. [ResearchMethodology.org.] (https://researchmethodology.org/waterfall-methodology/) 
+Hassan, M., & Hassan, M. (2025, September 11). Waterfall Methodology – Phases, Examples and Guide. ResearchMethodology.org. (https://researchmethodology.org/waterfall-methodology/) 
 
-Collado, Z. C. (2019). Challenges in public health facilities and services: evidence from a geographically isolated and disadvantaged area in the Philippines. [Journal of Global Health Reports, 3.] (https://doi.org/10.29392/joghr.3.e2019059) 
+Collado, Z. C. (2019). Challenges in public health facilities and services: evidence from a geographically isolated and disadvantaged area in the Philippines. Journal of Global Health Reports, 3. (https://doi.org/10.29392/joghr.3.e2019059) 
 
-Alibudbud, R. (2024). Addressing the challenges of private hospitals in the Philippines. [Health Services Insights, 17, 11786329241241905.] (https://doi.org/10.1177/11786329241241905)
+Alibudbud, R. (2024). Addressing the challenges of private hospitals in the Philippines. Health Services Insights, 17, 11786329241241905. (https://doi.org/10.1177/11786329241241905)
 
 
 
