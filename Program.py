@@ -191,6 +191,14 @@ while True:
                         print("Hello! We do not have your medical records in our system yet, kindly fill out these questions, thank you.")
                         name = input("Enter your full name: ").title()
                         age = int(input("Enter your current age: "))
+
+                        #ERROR HANDLING - age
+                        while True:
+                            if age <= 0:
+                                age = int(input("Invalid age! Please enter appropriate age: "))
+                            else:
+                                break
+                                
                         sex = input("Please enter your sex (F/M): ").upper()
 
                         #ERROR HANDLING - sex
