@@ -1,9 +1,9 @@
-#Hospital Appointment and Record Management System (HARMS)
+# Hospital Appointment and Record Management System (HARMS)
 
-###Description
+### Description
 This project/program aims to help patients and doctors by providing an efficient system of appointments and medical records.
 
-###Objectives
+### Objectives
 1. Provide a Function Appointment and Records system
 2. Increase Hospital efficiency
 3. Protect and filter users from confidential information
@@ -11,13 +11,13 @@ This project/program aims to help patients and doctors by providing an efficient
 5. Provide an easy-to-use interface
 
 
-###Features
+### Features
 User Log-in System
 Patient ID System
 Appointment Booking
 Medical Records System
 
-###How to Run with screenshots + Output
+### How to Run with screenshots + Output
 1.Download Thonny
 
 2. Acquire and download a copy of the program
