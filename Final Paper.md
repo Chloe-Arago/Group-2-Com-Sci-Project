@@ -91,6 +91,10 @@ The full software shall be tested by the team or clients to ensure no errors or 
 
 Beta testing is required to easily identify errors and bugs in either the interface or the code. Furthermore, the system should be updated in case of an environmental change. If any bugs or problems with the user interface are reported to the team, then they must fix that part of the code. Minor updates should be given by the team to the system in order to enhance features and prevent the application from becoming outdated.
 
+### Flowchart
+![Uploading AA FINAL - Main.png…]()
+
+
 ## Team Roles 
 |**Name**|**1st Quarter**|**2nd Quarter**|**3rd Quarter**|**4th Quarter**|
 |---|---|---|---|---|
