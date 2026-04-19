@@ -19,9 +19,8 @@ Medical Records System
 
 ### How to Run with screenshots + Output
 1.Download Thonny
-
 2. Acquire and download a copy of the program
-
+<img width="308" height="50" alt="image" src="https://github.com/user-attachments/assets/7bead33f-a7ef-45b6-822c-94e671a0f108" />
 3. Open Thonny, then load the program. You will find it in your downloads folder.
 4. Run the program by clicking the green button on the top left corner 
 5. You will be faced with the interface, you can either choose to Register, Login, or exit, enter 1-3 for their respective outcome .
