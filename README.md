@@ -19,10 +19,11 @@ Medical Records System
 
 ### How to Run with screenshots + Output
 1.Download Thonny
+<img width="611" height="98" alt="image" src="https://github.com/user-attachments/assets/04af72bc-5524-4eee-814d-7f7f1c8dedd0" />
 2. Acquire and download a copy of the program
-<img width="308" height="50" alt="image" src="https://github.com/user-attachments/assets/7bead33f-a7ef-45b6-822c-94e671a0f108" />
+<img width="308" height="50" alt="image" src="https://github.com/user-attachments/assets/1fb8db43-3aee-49ed-8a77-d2333d6be346" />
 3. Open Thonny, then load the program. You will find it in your downloads folder.
-4. Run the program by clicking the green button on the top left corner 
+4. Run the program by clicking the green button on the top left corner <img width="32" height="24" alt="image" src="https://github.com/user-attachments/assets/c15c4a7a-8b7e-430f-8112-0e08d039fea5" />
 5. You will be faced with the interface, you can either choose to Register, Login, or exit, enter 1-3 for their respective outcome .
 
 6. Register yourself first; you’ll need to identify yourself if you’re a patient, doctor, or staff member.
@@ -62,7 +63,6 @@ Medical Records System
 	12.5 For Logout, Enter 4.
 13. For Staff, it will be the same as for doctors. 
 14. In the Records and Appointments Menu, enter 3 to exit the system. Thank you For using our system!
-	
 
 
 
