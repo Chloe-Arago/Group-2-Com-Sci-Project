@@ -11,7 +11,7 @@ In addition, digital records, which could serve to streamline the system, still 
 
 ## II. Objectives
  
-### 1. To develop a functional Medical Records and Appointment System
+### 1. To develop a functional Medical Appointment and Records Management System
 
 This programs consists of user authentication, management of the patient’s records, and accessibility of medical records to the staff and patient
 
