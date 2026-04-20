@@ -212,7 +212,7 @@ while True:
 
                         #ERROR HANDLING -  weight
                         while True:
-                            if weight < 0:
+                            if weight <= 0:
                                 weight = int(input("Invalid weight! Please enter your current weight in kg: "))
                             else:
                                 break
@@ -221,7 +221,7 @@ while True:
 
                         #ERROR HANDLING - height
                         while True:
-                            if height < 0:
+                            if height <= 0:
                                 height = int(input("Invalid height! Please enter your current height in cm: "))
 
                             else:
